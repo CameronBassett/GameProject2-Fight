@@ -1,0 +1,22 @@
+let manifest = [
+    {
+        src:"lib/assets.json",
+        forSpritesheet:"assets"
+    },
+    {
+        src:"lib/assets.png",
+        id:"assets"
+    },
+    {
+        src:"lib/oof.wav",
+        id:"oof"
+    },
+    {
+        src:"lib/ooh.wav",
+        id:"ooh"
+    },
+    {
+        src:"lib/cheering.wav",
+        id:"cheering"
+    } 
+];
